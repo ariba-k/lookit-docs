@@ -295,7 +295,7 @@ List of tutorial participants
 - Norman Zeng (University of Toronto) 
 - Molly Rathbun (University of Virginia)
 - Marib Malik (University of Texas at Dallas)
-
+- Ariba Khan (MIT)
 Checking for and creating issues on Github
 -------------------------------------------
 
